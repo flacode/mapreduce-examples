@@ -1,2 +1,2 @@
 # mapreduce-examples
-Examples for Wapreduce programs
+Examples for Mapreduce programs
